@@ -1,0 +1,15 @@
+html, body, #root {
+    height: 100%;
+    text-align: center;
+    font-size: x-large;
+   background-image:url(assets/images/jpg/AS300431.jpeg)
+        
+}
+
+a{
+    color: gray;
+}
+
+input,select,button{
+    font-size: x-large;
+}

@@ -1,0 +1,42 @@
+29.4.2023, 19:14:24 	 Route /api/products not exist
+----------------------------
+29.4.2023, 19:15:21 	 ER_NO_SUCH_TABLE: Table 'ikeastuck.product' doesn't exist
+----------------------------
+29.4.2023, 19:17:20 	 ER_NO_SUCH_TABLE: Table 'ikeastuck.product' doesn't exist
+----------------------------
+29.4.2023, 19:21:47 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`ikeastuck`.`product`, CONSTRAINT `product_ibfk_1` FOREIGN KEY (`furnitureId`) REFERENCES `furnishings` (`furnitureId`))
+----------------------------
+29.4.2023, 19:22:20 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`ikeastuck`.`product`, CONSTRAINT `product_ibfk_1` FOREIGN KEY (`furnitureId`) REFERENCES `furnishings` (`furnitureId`))
+----------------------------
+29.4.2023, 19:22:33 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`ikeastuck`.`product`, CONSTRAINT `product_ibfk_1` FOREIGN KEY (`furnitureId`) REFERENCES `furnishings` (`furnitureId`))
+----------------------------
+29.4.2023, 19:23:01 	 ER_NO_SUCH_TABLE: Table 'ikeastuck.product' doesn't exist
+----------------------------
+29.4.2023, 19:24:35 	 ER_NO_SUCH_TABLE: Table 'ikeastuck.product' doesn't exist
+----------------------------
+29.4.2023, 19:29:58 	 ER_NO_SUCH_TABLE: Table 'ikeastuck.product' doesn't exist
+----------------------------
+29.4.2023, 19:33:17 	 ER_NO_SUCH_TABLE: Table 'ikeastuck.product' doesn't exist
+----------------------------
+29.4.2023, 19:33:45 	 ER_NO_SUCH_TABLE: Table 'ikeastuck.product' doesn't exist
+----------------------------
+29.4.2023, 19:34:00 	 Route /api/product not exist
+----------------------------
+29.4.2023, 19:34:04 	 ER_NO_SUCH_TABLE: Table 'ikeastuck.product' doesn't exist
+----------------------------
+29.4.2023, 19:39:34 	 ER_NO_SUCH_TABLE: Table 'ikeastuck.product' doesn't exist
+----------------------------
+1.5.2023, 18:44:39 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`ikeastuck`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`furnitureId`) REFERENCES `furnishings` (`furnitureId`))
+----------------------------
+1.5.2023, 18:44:56 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`ikeastuck`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`furnitureId`) REFERENCES `furnishings` (`furnitureId`))
+----------------------------
+1.5.2023, 18:45:03 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`ikeastuck`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`furnitureId`) REFERENCES `furnishings` (`furnitureId`))
+----------------------------
+1.5.2023, 18:46:49 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`ikeastuck`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`furnitureId`) REFERENCES `furnishings` (`furnitureId`))
+----------------------------
+1.5.2023, 18:47:33 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`ikeastuck`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`furnitureId`) REFERENCES `furnishings` (`furnitureId`))
+----------------------------
+1.5.2023, 18:47:37 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`ikeastuck`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`furnitureId`) REFERENCES `furnishings` (`furnitureId`))
+----------------------------
+1.5.2023, 18:48:00 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`ikeastuck`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`furnitureId`) REFERENCES `furnishings` (`furnitureId`))
+----------------------------
